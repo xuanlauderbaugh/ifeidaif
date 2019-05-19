@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahhipeech.neujie.cn/sitemap.xml
